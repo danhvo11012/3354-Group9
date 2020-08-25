@@ -1,0 +1,18 @@
+4 Book Shelf Software
+	4.1 Book management
+		4.1.1 Load books from Download folder, provide support to .txt and .pdf
+		4.1.2 Delete books
+		4.1.3 Add category of books
+		4.1.4 Manage categories (add/remove books)
+		4.1.5 Search books by text query
+	4.2 Book reading
+		4.2.1 Swipe to go to the next/previous page
+		4.2.2 Bookmark a page and go to the bookmark page (optional for .pdf)
+		4.2.3 Day & night mode (optional for .pdf)
+		4.2.4 Search for word and go to the word (optional for .pdf)
+		4.2.5 Change font and size of the text in the book (optional)
+		4.2.6 Extract chapters and directly go to certain chapters (optional)
+	4.3 Book notations (optional)
+		4.3.1 Add notation to certain page
+		4.3.2 View notations on page with notations
+		4.3.3 Edit notation
